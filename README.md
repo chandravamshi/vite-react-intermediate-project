@@ -7,3 +7,6 @@ See Gif attached for better visualisation
 Run the following commands
 * `npm i `
 * `npm run dev` 
+
+## Gif of Select Dropdwon
+![Gif](ezgif-5-be4343ea33.gif)
